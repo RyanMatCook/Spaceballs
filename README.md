@@ -1,6 +1,6 @@
 # Spaceballs
 
-A <a href="threejs.org">Three.js</a> based web game made for a third year varsity project.
+A <a href="https://threejs.org">Three.js</a> based web game made for a third year varsity project.
 
 Run the "691153 Project.html" in a web browser to play. 
 
